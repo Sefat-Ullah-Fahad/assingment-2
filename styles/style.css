@@ -40,3 +40,66 @@ nav .menu {
 .banner-img {
     max-width: 50%;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Responsive section */ 
+@media screen and (max-width: 576px) {
+    /* navbar  */
+      .sm-hide {
+        display: none;
+    }
+    .navbar {
+        margin-right: 13px;
+        margin-left: 13px;
+        align-items: center;
+    }
+    .navbar img {
+        width: 63px;
+        height: 38px;
+    }
+
+/* banner */
+
+
+
+
+    .banner-content {
+        max-width: 100%;
+        padding: 16px;
+    }
+    .banner-img {
+        max-width: 100%;
+    }
+  
+    .banner {
+        flex-direction: column-reverse;
+        margin-top: 28px;
+        
+    }
+    .banner-content .banner-title {
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .banner-title {
+        padding-top: 18px;
+    }
+    .banner-subtitle {
+        font-size: 14px;
+        padding-top: 13px;
+    }
+}
