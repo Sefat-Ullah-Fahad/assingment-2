@@ -1,2 +1,42 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* common style */
+
+body p {
+     font-family: "Inter", sans-serif;
+     font-size: 22px;
+     color: rgba(0, 0, 0, 0.5);
+}
+
+
+
+
+
+/* header section */
+nav .menu {
+    font-family: "Inter", sans-serif;
+}
+
+/* banner section */
+
+.banner-content {
+    max-width: 50%;
+    padding-top: 60px;
+}
+.banner-content .banner-title {
+     font-family: "Noto Serif", serif;
+     margin-right: 50px;
+     line-height: 75px;
+}
+.banner-title span {
+    color: #E95A08;
+}
+.banner-subtitle {
+    padding-right: 10px;
+    padding-top: 20px;
+}
+
+.banner-img {
+    max-width: 50%;
+}
