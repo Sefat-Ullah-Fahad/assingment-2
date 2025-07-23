@@ -8,9 +8,12 @@ body p {
      font-size: 22px;
      color: rgba(0, 0, 0, 0.5);
 }
-
-
-
+body h1, h2, h3, h5 {
+    font-family: "Noto Serif", serif;
+}
+body h4 {
+    font-family: "Inter", sans-serif;
+}
 
 
 /* header section */
@@ -40,6 +43,13 @@ nav .menu {
 .banner-img {
     max-width: 50%;
 }
+
+/* our plants */
+
+.primary-btn {
+    padding: 19px 80px;
+}
+
 
 
 
@@ -75,9 +85,6 @@ nav .menu {
 
 /* banner */
 
-
-
-
     .banner-content {
         max-width: 100%;
         padding: 16px;
@@ -102,4 +109,8 @@ nav .menu {
         font-size: 14px;
         padding-top: 13px;
     }
+
+
+
+
 }
