@@ -110,7 +110,29 @@ nav .menu {
         padding-top: 13px;
     }
 
+    /* our plants  */
 
+    .our-plants {
+        margin-top: 60px;
+    }
+
+    .our-plants-card {
+    grid-template-columns: repeat(2, 1fr);
+    padding: 0px 14px;
+    }   
+    .primary-btn {
+    padding: 19px 30px;
+}
+.plant-titles {
+    max-width: 330px;
+    margin: auto;
+}
+.our-plant-title {
+    font-size: 24px;
+}
+.our-plant-subtitle {
+    font-size: 14px;
+}
 
 
 }
