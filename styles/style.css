@@ -142,6 +142,18 @@ nav .menu {
     justify-content: center;
 }
 
+/* Footer */
+.footer-img {
+    width: 135px;
+    height: 80px;
+    margin-bottom: 16px;
+}
+.footer-social-icon {
+    width: 36px;
+    height: 36px;
+    
+}
+
 
 
 
