@@ -224,6 +224,7 @@ nav .menu {
     }   
     .primary-btn {
     padding: 15px 10px;
+    font-size: 14px;
 }
 .plant-titles {
     max-width: 330px;
@@ -261,13 +262,15 @@ nav .menu {
     font-size: 20px;
 }
 .colorful-bunch-input-btn {
+    max-width: 300px;
+    margin: auto;
    padding: 30px 0px;
 }
 .input-email {
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 20px;
-    padding-right: 100px;
+    padding-right: 0px;
 }
 .email-btn {
     padding: 19px 12px ;
