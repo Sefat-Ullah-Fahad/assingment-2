@@ -88,11 +88,27 @@ nav .menu {
     padding: 10px 10px;
 }
 
+/* Least Deal */
+/* .deal-item {
+    position: relative;
+}
+.latest-deal-descound {
+    position: absolute;
+    color: black;
+    top: 200px;
+} */
 
 
 
 
 
+
+/* colorful Bunch */
+
+.colorful-bunch-img {
+    background-image: url(../assets/news-letter-bg.png);
+    width: 100%;
+}
 
 
 
@@ -171,5 +187,21 @@ nav .menu {
     font-size: 14px;
 }
 
+/* Our Flower  */
+.badge {
+    display: none;
+}
+.flower-levers-items {
+    margin-top: 41px;
+    padding: 16px;
+}
+.flower-item-2 h3 {
+  font-size: 24px;
+  margin: 0px;
+}
+.flower-subtitle {
+    margin: 0px 20px;
+    font-size: 14px;
+}
 
 }
