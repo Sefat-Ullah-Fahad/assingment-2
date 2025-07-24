@@ -3,6 +3,10 @@
 
 /* common style */
 
+body {
+    background-color: #f5f8ff;
+}
+
 body p {
      font-family: "Inter", sans-serif;
      font-size: 22px;
@@ -13,6 +17,10 @@ body h1, h2, h3, h5 {
 }
 body h4 {
     font-family: "Inter", sans-serif;
+}
+
+.flower-item-2 .lists {
+     color: rgba(0, 0, 0, 0.5);
 }
 
 
@@ -50,6 +58,35 @@ nav .menu {
     padding: 19px 80px;
 }
 
+/* flowers lover */
+
+.flower-item-2 {
+    margin: 38px 0px;
+    max-width: 550px;
+    position: relative;
+}
+.badge {
+    width: 286px;
+    height: 286px;
+    position: absolute;
+    right: 520px;
+    top: -170px;
+}
+
+.flower-item-2 h3 {
+  font-size: 50px;
+  line-height: 60px;
+}
+.flower-subtitle {
+    margin: 5px 20px;
+     color: rgba(0, 0, 0, 0.5);
+    font-size: 22px;
+}
+
+.flower-subtitle li {
+    /* margin: 25px 0px; */
+    padding: 10px 10px;
+}
 
 
 
